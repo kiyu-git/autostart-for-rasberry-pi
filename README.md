@@ -1,9 +1,11 @@
 # Auto startup files for rasberry pi
+When rasberry pi boots, below apps automatically run
+
 - homebase
 - wiringPi
 - chromium
 
-store the all autostart files under /home/pi/
+clone the all autostart files under /home/pi/
 
 ```terminal.pi
 pi@raspberrypi:~$ ls   

@@ -5,7 +5,7 @@ When rasberry pi boots, below apps automatically run
 - wiringPi
 - chromium
 
-clone the all autostart files under /home/pi/
+clone all autostart files under /home/pi/
 
 ```terminal.pi
 pi@raspberrypi:~$ ls   

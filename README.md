@@ -29,4 +29,4 @@ modify an autostart file following [this step1](https://www.raspberrypi-spy.co.u
 ```
 
 ## Cusomize files
-You have to modify `autostart/autostart_chromium` in order to open fist page.
+You have to modify `autostart/autostart_chromium` in order to open fist web page.

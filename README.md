@@ -29,3 +29,6 @@ modify `~/.config/lxsession/LXDE-pi/autostart` following [this step1](https://ww
 @xset -dpms
 @bash /home/pi/autostart.sh
 ```
+# References
+- [wiringPi](http://wiringpi.com/)
+- [homebase](https://github.com/beakerbrowser/homebase)

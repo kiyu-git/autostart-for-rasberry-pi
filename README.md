@@ -1,5 +1,5 @@
 # Auto startup files for rasberry pi
-When rasberry pi boots, below apps automatically run
+When rasberry pi boots, below applications automatically run
 
 - homebase
 - wiringPi
@@ -7,7 +7,7 @@ When rasberry pi boots, below apps automatically run
 
 clone all autostart files under /home/pi/
 
-```terminal.pi
+```terminal.app
 pi@raspberrypi:~$ ls   
 autostart_chromium.sh						 
 autostart_homebase.sh						 
@@ -16,7 +16,7 @@ autostart_sound.sh
 ```
 
 
-## Auto start fist terminal window
+## Auto start the fist terminal window
 modify `~/.config/lxsession/LXDE-pi/autostart` following [this step1](https://www.raspberrypi-spy.co.uk/2014/05/how-to-autostart-apps-in-rasbian-lxde-desktop/)
 
 ```~/.config/lxsession/LXDE-pi/autostart

@@ -18,6 +18,7 @@ autostart_sound.sh
 
 ## Auto start fist terminal window
 modify an autostart file following [this step1](https://www.raspberrypi-spy.co.uk/2014/05/how-to-autostart-apps-in-rasbian-lxde-desktop/)
+`~/.config/lxsession/LXDE-pi/autostart`
 
 ```~/.config/lxsession/LXDE-pi/autostart
 @lxpanel --profile LXDE-pi
